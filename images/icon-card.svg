@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#43FFA9" offset="0%"></stop>
+            <stop stop-color="#00CEA2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="40" height="40"></rect>
+    </defs>
+    <g id="v1.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Acorns-Desktop" transform="translate(-364.000000, -4697.000000)">
+            <g id="Group" transform="translate(300.000000, 4558.000000)">
+                <g id="Group-8" transform="translate(64.000000, 0.000000)">
+                    <g id="HERO-Copy">
+                        <g id="HERO">
+                            <g id="Group-Copy-3" transform="translate(0.000000, 134.000000)">
+                                <g id="Group-12" transform="translate(0.000000, 5.000000)">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                    <g id="Imported-Layers" mask="url(#mask-3)" fill="#FFFFFF">
+                                        <g transform="translate(20.500000, 20.500000) scale(-1, 1) rotate(-29.000000) translate(-20.500000, -20.500000) translate(8.000000, 8.000000)" id="Combined-Shape">
+                                            <path d="M1.65340909,8.21363636 L0.878409091,8.9875 C0.185227273,9.68068182 0.185227273,10.8034091 0.878409091,11.4965909 L13.7113636,24.3295455 C14.4045455,25.0227273 15.5272727,25.0227273 16.2204545,24.3295455 L16.9943182,23.5545455 L1.65340909,8.21363636 Z M24.3897727,13.6568182 L11.5511364,0.818181818 C10.8602273,0.127272727 9.73977273,0.127272727 9.04772727,0.818181818 L3.61704545,6.24886364 L18.9590909,21.5909091 L24.3897727,16.1590909 C25.0806818,15.4681818 25.0806818,14.3477273 24.3897727,13.6568182 Z M10.6329545,7.80795455 C10.1761364,8.26590909 9.43409091,8.26590909 8.97613636,7.80795455 L7.87159091,6.70340909 C7.41363636,6.24545455 7.41363636,5.50340909 7.87159091,5.04545455 L8.97613636,3.94090909 C9.43409091,3.48295455 10.1761364,3.48295455 10.6329545,3.94090909 L11.7386364,5.04545455 C12.1954545,5.50340909 12.1954545,6.24545455 11.7386364,6.70340909 L10.6329545,7.80795455 Z"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
